@@ -1,14 +1,15 @@
 # Negative Probability: Forward-Backward Algorithm
-Here is the project's website of our paper "Negative probabilities in Gene Regulatory Networks"
 
-by Anqi Dong, Tryphon T. Georgiou, Allen Tannenbaum.
+Here is the project's website for our paper titled "Negative Probabilities in Gene Regulatory Networks" 
 
-The paper can be found from ...
+The paper can be accessed at [insert link to the paper].
 
-Herein, we present the Forward-Backward algorithm (fb.m) and the Gradient Descent method (gd.m). 
+In this project, we introduce two key algorithms: the Forward-Backward algorithm (fb.m) and the Gradient Descent method (gd.m).
 
-1. The data of the large-scale example can be found in the folder -- example_data.
-2. All the functions used in the paper can be found in the folder -- function_backup 
-3. All the experiments conducted in the paper can use the code in convergence_comp
+i) The data for the large-scale example can be found in the "example_data" folder.
+
+ii) All the functions used in the paper are available in the "function_backup" folder.
+
+iii) For reproducing the experiments conducted in the paper, you can utilize the code provided in the "convergence_comp" folder.
 
 ![alt text](https://github.com/dytroshut/negative-probability-forward-backward/blob/main/gene_network.png)
