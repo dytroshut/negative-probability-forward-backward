@@ -4,7 +4,7 @@ Here is the project's website for our paper titled "Negative Probabilities in Ge
 
 The paper can be accessed at [insert link to the paper].
 
-In this project, we introduce two key algorithms: the Forward-Backward algorithm (fb.m) and the Gradient Descent method (gd.m).
+In this project, we introduce a salient algorithm: the Forward-Backward algorithm (fb.m), and vertified its results by the Gradient Descent method (gd.m).
 
 i) The data for the large-scale example can be found in the "example_data" folder.
 
