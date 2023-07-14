@@ -6,4 +6,4 @@ Herein, we present the Forward-Backward algorithm (fb.m) and the Gradient Descen
 
 
 
-![alt text](https://github.com/dytroshut/negative-probability-forward-backward/blob/main/gene_network.pdf)
+![alt text](https://github.com/dytroshut/negative-probability-forward-backward/blob/main/gene_network.png)
