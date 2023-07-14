@@ -1,6 +1,6 @@
 # Negative Probability: Forward-Backward Algorithm
 
-## Here is the project's website for our paper titled ***"Negative Probabilities in Gene Regulatory Networks"*** (Anqi Dong, Tryphon T. Georgiou, Allen Tannenbaum).
+### Here is the project's website for our paper titled ***"Negative Probabilities in Gene Regulatory Networks"*** (Anqi Dong, Tryphon T. Georgiou, Allen Tannenbaum).
 
 The paper can be accessed at [insert link to the paper].
 
