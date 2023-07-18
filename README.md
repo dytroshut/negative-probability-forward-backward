@@ -2,7 +2,7 @@
 
 ### Here is the project's website for our paper titled ***"Negative Probabilities in Gene Regulatory Networks"*** (Anqi Dong, Tryphon T. Georgiou, Allen Tannenbaum).
 
-The paper can be accessed at [insert link to the paper].
+The paper can be accessed at https://arxiv.org/abs/2307.07738.
 
 
 In this project, we introduce a salient algorithm: the ***Forward-Backward (Sinkhorn-like) algorithm***, which seeks the transition matrix with the allowance of negative transition probability. Additionally, in order to verify the results/minimizer, we also provide the gradient descent method.
